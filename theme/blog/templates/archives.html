@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %} Blog - A Calustra{% endblock %}
+{% block description %} Blog de Eloy Coto, desarrollo de aplicaciones Voip (SIP, Asterisk, Kamailio, Sems){% endblock %}
+{% block keywords %}i Ansible, Vagrant, Kamailio, Asterisk, Tornado, Python, Docker{% endblock %}
+{% block canonical %}{{SITEURL}}/archives.html{% endblock %}
+
+{% block head %}
+  <meta name="tags" content="Docker, Asterisk, Voip, SIP, IMS, dispatcher" />
+  <meta name="category" content="blog" />
+  <meta name="author" content="Eloy coto" />
+  <meta name="robots" content="index,follow" />
+{% endblock %}
+
+{% block content%}
+
+{% for article in articles %}
+  <div class="row">
+    <div class="col-10">
+      <h2>{{article.title}}</h2>
+      <div class="byline">
+        Escrito por:
+        <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+          <span itemprop="name">
+            <a href="https://plus.google.com/106179242242173415236/posts" itemprop="url" rel="author">Eloy Coto Pereiro</a>
+          </span>
+        </span>
+        on
+        <time datetime="2011-05-17T22:00" itemprop="datePublished">{{article.date |strftime("%A %B %dth %Y")}}</time>
+      </div>
+    </div><!--byline-->
+  </div><!--row-->
+  <div class="row">
+    <div class="col-10">
+      {{ article.summary }}
+      <div class="row">
+        <div class="col-6 taglist">
+          {% for tag in article.tags|sort %}
+            <span class="tag">
+              <i><a href="{{SITE_URL}}/{{tag.url}}" rel="tag">{{tag}}</a></i>
+            </span>
+          {% endfor %}
+        </div>
+
+        <div class="col-3 col-offset-3">
+          <a href="/{{ article.url }}" class="btn"><i class="fa fa-arrow-right"></i> Leer mas</a>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+{% endblock %}
+

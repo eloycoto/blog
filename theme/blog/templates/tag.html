@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %} Artículos relacionados con {{tag}} {% endblock %}
+{% block description %}{{tag}}{% endblock %}
+{% block keywords %}Asterisk, docker, sems, voip, sip{% endblock %}
+{% block canonical %}{{SITEURL}}/{{tag.url}}{% endblock %}
+
+{% if not articles_page %}
+  {% block head %}
+    <meta name="category" content="blog" />
+    <meta name="author" content="Eloy coto" />
+    <meta name="robots" content="noindex,nofollow" />
+  {% endblock %}
+{% endif %}
+
+{% block content%}
+<h1>Artículos relacionados con <strong>{{tag}}</strong></h1>
+{% for article in articles %}
+  <div class="row">
+    <div class="col-10">
+      <h2><a href="{{SITEURL}}/{{article.url}}">{{article.title}}</a></h2>
+      <div class="byline">
+        Escrito por:
+        <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+          <span itemprop="name">
+            <a href="https://plus.google.com/106179242242173415236/posts" itemprop="url" rel="author">Eloy Coto Pereiro</a>
+          </span>
+        </span>
+        on
+        <time datetime="2011-05-17T22:00" itemprop="datePublished">{{article.date |strftime("%A %B %dth %Y")}}</time>
+      </div>
+    </div><!--byline-->
+  </div><!--row-->
+  <div class="row">
+    <div class="col-10">
+      {{ article.summary }}
+      <div class="row">
+        <div class="col-6 taglist">
+          {% for tag in article.tags|sort %}
+            <span class="tag">
+              <i><a href="{{SITE_URL}}/{{tag.url}}" rel="tag">{{tag}}</a></i>
+            </span>
+          {% endfor %}
+        </div>
+        <div class="col-3 col-offset-3">
+          <a href="/{{ article.url }}" class="btn"><i class="fa fa-arrow-right"></i> Leer mas</a>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+{% endblock %}
+
