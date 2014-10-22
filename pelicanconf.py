@@ -45,11 +45,12 @@ SITEMAP = {
 }
 RELATED_POSTS_MAX = 5
 EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'},
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/robots.txt': {'path': 'robots.txt'},
 }
 STATIC_PATHS = [
     'extra/robots.txt',
+    'extra/CNAME',
     'img',
 ]
 # Uncomment following line if you want document-relative URLs when developing
