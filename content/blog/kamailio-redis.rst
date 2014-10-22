@@ -1,5 +1,5 @@
-Kamailio redis integracion de colas
-===================================
+sistemas de colas basado en redis en kamailio
+==============================================
 
 :date: 2013-04-10 00:30
 :head: Sistemas de colas basado en kamailio con redis.

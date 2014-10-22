@@ -1,4 +1,4 @@
-Las mejores funciones de Ansible
+trick and tips en ansible
 ================================
 
 :date: 2014-06-03 12:20

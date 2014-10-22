@@ -1,5 +1,5 @@
-Instalar Hubot e integrarlo con nuestro servicio XMPP
-=====================================================
+Integrando hubot con nuestro servicio xmpp
+===========================================
 
 :date: 2013-05-10 00:30
 :head: Instalar Hubot con nuestro servidor jabber

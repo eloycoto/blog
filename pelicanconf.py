@@ -46,6 +46,7 @@ SITEMAP = {
 RELATED_POSTS_MAX = 5
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/CNAME': {'path': 'CNAME'},
 }
 STATIC_PATHS = [
     'extra/robots.txt',
