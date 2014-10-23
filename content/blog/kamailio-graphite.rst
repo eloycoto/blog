@@ -11,7 +11,7 @@ Kamailio statsd, better statistics in your voip platform.
 
 I remember when I read about `Graphite <http://graphite.wikidot.com/>`__. I was reading that Vimeo used it for making realtime monitoring in their projects and reporting for all the team. I got a chance to test with my local apps and after a few days I started to love graphite.
 
-I start to use graphite in my web apps. Affer few weeks I needed to monitor a new feature deployed in one of our kamailio. The first time I used mod_python+statsd, but I realise that using python module was not the best way so I write `statsd module <https://github.com/eloycoto/statsd>`__ that work native with kamailio.
+I start to use graphite in my web apps. After few weeks I needed to monitor a new feature deployed in one of our kamailio. The first time I used mod_python+statsd, but I realise that using python module was not the best way so I write `statsd module <https://github.com/eloycoto/statsd>`__ that work native with kamailio.
 
 `I made this module, after 7 years working with Kamailio <https://github.com/eloycoto/statsd>`__, I read/modified a lot of modules, but I never had a chance to write a new one.
 
