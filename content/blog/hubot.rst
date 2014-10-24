@@ -3,6 +3,7 @@ Integrando hubot con nuestro servicio xmpp
 
 :date: 2013-05-10 00:30
 :head: Instalar Hubot con nuestro servidor jabber
+:index_title: Integracion de hubot con XMPP
 :metatitle: Hubot integrado con el servidor Prosody o otro Jabber.
 :tags: xmpp, github, productividad, hubot, asterisk, jabber
 :metatags: xmpp, github, productividad, hubot, asterisk, jabber

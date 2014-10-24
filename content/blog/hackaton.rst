@@ -2,6 +2,7 @@ Spring Hackaton London
 =======================
 :date: 2013-04-28 12:25
 :head: Spring Hackaton Londres Abril 2013
+:index_title: Hackathon en el Google Campus
 :metatitle: Hackaton localizacion y twilio en el Google Campus
 :tags: openlayers,twilio, cloud-communications, programacion, emberjs, python
 :metatags: openlayers,twilio, cloud-communications, programacion, emberjs, python

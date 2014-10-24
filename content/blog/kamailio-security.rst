@@ -3,6 +3,7 @@ Politicas de seguridad en Kamailio
 
 :date: 2014-04-05 12:20
 :head: Excepciones de seguridad en kamailio
+:index_title: Excepciones de seguridad en kamailio.
 :metatitle: How to de reglas de seguridad en kamailio
 :tags: kamailio, redis, python, seguridad, ataques, voip, sip
 :metatags: kamailio, redis, python, seguridad, ataques, voip, sip

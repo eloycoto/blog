@@ -3,6 +3,7 @@ trick and tips en ansible
 
 :date: 2014-06-03 12:20
 :head: 6 funciones de Ansible que no conocías
+:index_title: Las mejores funciones de ansible
 :metatitle: Trucos en la configuración de Ansible
 :tags: ansible, devops, howto, asterisk, playbook
 :metatags: ansible, deploy, tricks, condicionales

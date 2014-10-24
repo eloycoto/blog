@@ -3,6 +3,7 @@ sistemas de colas basado en redis en kamailio
 
 :date: 2013-04-10 00:30
 :head: Sistemas de colas basado en kamailio con redis.
+:index_title: Kamailio redis howto
 :metatitle: Kamailio redis, sistemas de colas - Eloy Coto
 :tags: kamailio, redis, python, notifications, voip, telefonia
 :metatags: kamailio, redis, python, notifications, voip, telefonia

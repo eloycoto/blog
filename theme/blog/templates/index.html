@@ -155,4 +155,18 @@
     </div>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-9">
+    <h2>In the blog</h2>
+    <ul>
+      {% for article in articles %}
+        {% if article.index_title %}
+          <li><a href="/{{ article.url }}">{{article.index_title}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
 {% endblock %}
