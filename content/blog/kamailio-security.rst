@@ -64,4 +64,4 @@ Por otra parte tenemos nuestro sistema de bloqueo por rates, en el momento que u
 
 Esto, evidentemente, no es el mejor sistema de seguridad, un robot puede llegar a acceder a la url del sistema, pero bueno, al mismo tiempo intentamos que nuestros problemas no sean problemas de nuestros clientes ;-)
 
-PS: Desde la pasada Kamailio World conference el siguiente punto será este usar los datos de `Ips de Simwood <mirror.simwood.com/honeypot/>`__
+PS: Desde la pasada Kamailio World conference el siguiente punto será este usar los datos de `Ips de Simwood <http://mirror.simwood.com/honeypot/>`__

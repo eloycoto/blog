@@ -16,7 +16,7 @@ DEFAULT_LANG = u'es'
 DISQUS_SITENAME = 'acalustra'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = 'rss.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
@@ -25,7 +25,7 @@ LINKS = ()
 # Social widget
 SOCIAL = ()
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 0
 
 PLUGIN_PATHS = ["pelican-plugins/"]
 PLUGINS = ['sitemap','related_posts']
