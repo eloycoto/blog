@@ -18,14 +18,13 @@ Este fin de semana, con la compañía de `@agonzalezroro <https://twitter.com/ag
 - Tenía que ser freshcode
 - Había `6 diferentes categorías <http://hackathoncentral.com/#prizes>`__ para optar a interesantes premios.
 
-La idea era hacer un chat Webrtc/sip con `Kamailio <http://acalustra.com/post/42677671338/kamailio-integracion-redis-colas>`__ con localización en un mapa, pero finalmente, al presentar las API de los patrocinadores, la habían propuesto, por lo que la desechamos y empezamos a pensar en otra solución/idea.
+La idea era hacer un chat Webrtc/sip con `Kamailio <|filename|/blog/kamailio-redis.rst>`__ con localización en un mapa, pero finalmente, al presentar las API de los patrocinadores, la habían propuesto, por lo que la desechamos y empezamos a pensar en otra solución/idea.
 
 La idea fue un sistema de localización de comisarías de policía en un mapa, y que al clickar en ella se pudiera llamar gratuitamente a la comisaría.
 
 .. image:: img/springhackathon.png
     :width: 50%
     :align: center
-    :target: hackathon
 
 
 Empezamos a programar y teníamos claro que usaríamos herramientas que no usábamos a menudo para así aprender algo nuevo,aqui os presento la lista:
@@ -39,7 +38,6 @@ Empezamos a programar y teníamos claro que usaríamos herramientas que no usáb
 .. image:: img/emberjs.jpg
     :width: 50%
     :align: center
-    :target: emberjs.jpg
 
 
 Al final el resultado: para ser un par de días, y no haber pasado mucho tiempo por la noche creo que ha sido bastante aceptable, como no el codigo esta en `github <http://kcy.me/joh2>`__ y `se puede ver la aplicación online <http://kcy.me/joog>`__
