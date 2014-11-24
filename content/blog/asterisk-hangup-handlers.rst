@@ -2,6 +2,7 @@ Asterisk 11 hangups handlers
 ============================================================
 
 :date: 2014-10-22 16:00
+:language: en-GB
 :head: How to improve your hangups handlers in asterisk.
 :metatitle: Asterisk 11, new feature hangup handlers
 :tags: asterisk, dialplan, ari, hangup

@@ -2,6 +2,7 @@ Kamailio statsd, better statistics in your voip platform.
 ============================================================
 
 :date: 2014-10-22 16:00
+:language: en-GB
 :head: Kamailio integration with Statsd and Graphite.
 :index_title: Kamailio statsd native integration.
 :metatitle: How to integrate kamailio with Graphite using kamailio statsd

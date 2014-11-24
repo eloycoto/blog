@@ -1,7 +1,7 @@
 Hablando de Docker en betabeers Galicia
 ============================================================
 
-:date: 2014-11-24 16:00
+:date: 2014-11-14 16:00
 :head: Taller de Docker en betabeers Galicia
 :index_title: Charla sobre Docker en Betabeers Galicia
 :metatitle: XVI Jornada del Betabeers galicia donde hablé de docker.
