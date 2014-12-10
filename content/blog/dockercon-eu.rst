@@ -60,10 +60,10 @@ Docker Swarm
 ------------
 
 `This announcement made me happy <https://github.com/docker/swarm/>`__.
-Orchestration iss difficult, very difficult, `Swarm is the first step of
+Orchestration is difficult, very difficult, `Swarm is the first step of
 something that I hope will be great
 <https://speakerdeck.com/vieux/docker-swarm>`__. Use docker as normal with
-Swarm iss quite useful, and easy to make it grow. Things like volumes or
+Swarm is quite useful, and easy to make it grow. Things like volumes or
 networking linking will continue to be difficult, but I'm sure that will be
 fixed in less than 4 months ;-).
 
