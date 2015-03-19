@@ -1,7 +1,7 @@
 Kamailio statsd explained
 ==========================
 
-:date: 2015-04-16 16:00
+:date: 2015-03-16 16:00
 :language: en-GB
 :head: Kamailio statsd best practices
 :index_title: Kamailio statsd native integration.
