@@ -8,7 +8,7 @@ Kamailio statsd explained
 :metatitle: Kamailio Statsd module explained
 :tags: kamailio, graphite, statsd, grafana, statistics, monitoring
 :metatags: kamailio, graphite, statsd, grafana
-:description: Kamailio statsd is a module to integrate your Voip platform with Realtime graphing Graphite. You can get better statistics with this module.
+:description: Kamailio statsd help you to measure all the sip signalling here you have the best practices.
 :keywords: Kamailio statsd, kamailio modules, graphite, grafana, statsd, gauges, counters
 
 I remember when I heard about graphite/statsd. It was late of 2012 in the Python London Group. Few weeks before I read *Lean Startup* and I learnt to measure all the things to improve our business.
