@@ -130,14 +130,10 @@ supported in Async tasks, but the following workaround can be used:
 
     - name: Installing dependencies
       apt:
-        name: "{{ ' '.join(dependencies) }}"
+        name: "{{ ','.join(dependencies) }}"
         update_cache: yes
         cache_valid_time: 3600
       async: 1000
       poll: 0
-
-This playbook will not work in Ansible Trunk version. `I sent a new PR to enable
-<https://github.com/ansible/ansible-modules-core/pull/1255>`__ multiple packages
-inline.
 
 Happy deploy!

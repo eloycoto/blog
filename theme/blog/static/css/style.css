@@ -166,6 +166,9 @@ img.profile {
 .share .fa {
   margin-top: 10px;
 }
+.strike {
+  text-decoration: line-through;
+}
 .col-1 {
   width: 8.33333333%;
   /* margin: 0; */

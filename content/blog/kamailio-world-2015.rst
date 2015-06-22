@@ -142,6 +142,20 @@ with his point of view. I think that redis is more effective than any sql in
 memory database as backend, but same approach can be used with redis in this
 case.
 
+.. raw:: html
+
+    The last talk was given by <a
+    href="https://www.youtube.com/watch?v=yWRQamkCtTs">Daniel</a>. He spoke
+    about some security tips in our kamailio config files. <strike>I need to say
+    that I don't agree 100 percent with his point of view. I think that redis is
+    more effective than any sql in memory database as backend, but same approach
+    can be used with redis in this case.</strike> I saw again this talk and I
+    misunderstanding a little bit. Daniel mentioned another databases and lua
+    scripts, and all mysql was only a examples.  Nowadays in my cases I'm using
+    redis as cache system, so I think that for us it's more useful & simple. My
+    advice you must use the backend that fit in your installation in my case
+    Redis works perfect.
+
 Finally I missed a lot of people: Carlos Ruiz from TokyApp, Torrey from Voxbone,
 Anton from Quobis... active members that I always learn a lot from them. In the
 other hand big thanks to all the people that were involved in this conference.

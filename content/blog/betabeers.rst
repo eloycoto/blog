@@ -1,13 +1,13 @@
 Hablando de Docker en betabeers Galicia
-============================================================
+=========================================
 
 :date: 2014-11-14 16:00
-:head: Taller de Docker en betabeers Galicia
+:head: Taller de Docker en Betabeers Galicia
 :index_title: Charla sobre Docker en Betabeers Galicia
-:metatitle: XVI Jornada del Betabeers galicia donde hablé de docker.
+:metatitle: XVI Jornada del Betabeers Galicia donde hablé de docker.
 :tags: Docker, betabeers
 :metatags: kamailio, asterisk, docker, Betabeers, fig, Kubernetes
-:description: Presenatión de docker en el XVI Betabeers Galicia donde nos itroducimos en docker
+:description: Presentación de docker en el XVI Betabeers Galicia donde nos introducimos en docker
 :keywords: docker, betabeers, kamailio
 
 Hace ya unos cuentos meses que estoy buceando en esto de Docker. Me parece un proyecto muy interesante tanto para proyectos de (`Asterisk <|filename|/blog/asterisk-hangup-handlers.rst>`__ o `Kamailio <|filename|/blog/kamailio-graphite.rst>`__) como de web. Actualmente lo estoy usando en web, y espero que pronto de el paso a toda la voz.
