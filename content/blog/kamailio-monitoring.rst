@@ -3,18 +3,18 @@ How can I monitor my Voip Application?
 
 :date: 2015-07-24 16:00
 :language: en-GB
-:head: Kamailio monitoring with statsd, SipCapture or Packetbeat
+:head: Kamailio monitoring with statsd, SIPCapture or Packetbeat
 :index_title: Monitoring solutions for kamailio
-:metatitle: How kamailio can be monitored with SipCapture and other software
-:tags: kamailio, sip, sipCapture, Packetbeat, statsd
+:metatitle: How kamailio can be monitored with SIPCapture and other software
+:tags: kamailio, sip, SIPCapture, Packetbeat, statsd
 :metatags: kamaialio, graphite, influxdb, siphormer, beats
 :description: Kamaialio can be monitored with different tools, in this post we're going to explain why tool platform needs.
-:keywords: kamailio monitoring, kamailio statsd, SipCapture, Packetbeat
+:keywords: kamailio monitoring, kamailio statsd, SIPCapture, Packetbeat
 
 
 In the last `Kamailio World <{filename}./kamailio-world-2015.rst>`__ two of the
-hot topics were `PacketBeat <https://www.elastic.co/products/beats>`__ and
-`SIPCapture <http://sipcapture.org/>`__.  Both projects announced good news
+hot topics were `Packetbeat <https://www.elastic.co/products/beats>`__ and
+`SIPCapture <http://SIPCapture.org/>`__.  Both projects announced good news
 meanwhile the conference, people got excited about it.
 
 SIPCapture released a new `version 5
@@ -35,13 +35,13 @@ hard in this version. SIPCapture 5 provides the following new features:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MtuvwgRLBUg" frameborder="0" allowfullscreen></iframe>
 
 
-Secondly PacketBeat announced that `joined Elastic <http://apmdigest.com/elastic-acquires-packetbeat>`_ and started a new branch
-called `beats <https://www.elastic.co/products/beats>`_. PacketBeat provides
+Secondly Packetbeat announced that `joined Elastic <http://apmdigest.com/elastic-acquires-Packetbeat>`_ and started a new branch
+called `Beats <https://www.elastic.co/products/beats>`_. Packetbeat provides
 an interface to monitor our application performance without pain. You can
 monitor all SQL information, Redis, HTTP information and get some insights of
 your application.
 
-**PacketBeat presentation on OSDC 2015**
+**Packetbeat presentation on OSDC 2015**
 
 .. raw:: html
 
