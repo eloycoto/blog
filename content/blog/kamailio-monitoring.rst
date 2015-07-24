@@ -7,8 +7,8 @@ How can I monitor my Voip Application?
 :index_title: Monitoring solutions for kamailio
 :metatitle: How kamailio can be monitored with SIPCapture and other software
 :tags: kamailio, sip, SIPCapture, Packetbeat, statsd
-:metatags: kamaialio, graphite, influxdb, siphormer, beats
-:description: Kamaialio can be monitored with different tools, in this post we're going to explain why tool platform needs.
+:metatags: kamailio, graphite, influxdb, siphormer, beats
+:description: Kamailio can be monitored with different tools, in this post we're going to explain why tool platform needs.
 :keywords: kamailio monitoring, kamailio statsd, SIPCapture, Packetbeat
 
 
@@ -90,6 +90,12 @@ percentile of the metric that you want it's correct, for example:
   this feature. Statsd provides a one line code to measure your business
   statistics.
 
+
+**UPDATE**: `As Alex point me in Twitter
+<https://twitter.com/adubovikov/status/624541282862518272>`_, all the perf stats
+can be displayed in SIPCapture included Packetbeat metrics and Influxdb metrics
+sending by statsd. So SIPCapure it's perfect for support and operations.
+**Awesome** work made by Lorenzo & Alex.
 
 Some developers changed statsd for Logstash. My personal opinion about that is
 the following:
