@@ -128,3 +128,6 @@ This was my summary about Hashiconf EU2016. Thanks for reading!
 
 PS: All photos are from `Hashicorp flickr
 page <https://www.flickr.com/photos/137604751@N05/sets/72157667183542004/>`__
+
+PS2: Videos are `now online
+<https://www.youtube.com/watch?list=PL81sUbsFNc5b-Gd59Lpz7BW0eHJBt0GvE&v=Ps44n1de0Js>`_
