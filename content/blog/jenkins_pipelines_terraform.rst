@@ -95,7 +95,7 @@ With this code you can easy review changes that terraform will make and deploy
 your infrastructure with the right human interaction. This code is too
 simplified but you can do all the business logic that you want. Complete list of
 examples can be found in `github
-<https://www.dropbox.com/s/dn5fadt1jb2loby/Screenshot%202016-07-04%2021.08.51.png?dl=0>`_.
+<https://github.com/jenkinsci/pipeline-examples/tree/master/pipeline-examples>`_.
 
 .. image:: img/jenkis_terraform_plan.png
    :alt: Jenkins pipeline terraform plan
