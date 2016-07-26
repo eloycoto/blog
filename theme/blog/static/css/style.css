@@ -882,6 +882,11 @@ img.profile {
   text-decoration: none;
   padding-left: 0px;
 }
+.figure .caption {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
 blockquote {
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
