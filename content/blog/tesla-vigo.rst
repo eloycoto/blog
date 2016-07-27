@@ -1,15 +1,15 @@
-Why Tesla should be set the European factory in Vigo?
-======================================================
+Why Tesla should build the European factory in Vigo?
+====================================================
 
-:date: 2016-08-01 16:00
+:date: 2016-07-26 16:00
 :language: en-GB
-:head: Why Tesla should be set the European factory in Vigo?
+:head: Why Tesla should build the European factory in Vigo?
 :index_title: a few reasons to Tesla to set the new EU factory in Galicia.
-:metatitle:
-:tags:
-:metatags:
-:description:
-:keywords:
+:metatitle: Reasons why Vigo has a powerful automotive cluster.
+:tags: tesla, vigo, galicia
+:metatags: Galicia, university, Vigo, tesla
+:description: A few reasons to set a new automotive factory in Vigo.
+:keywords: vigo, Galicia, tesla, automotive, citroen
 
 
 Let me introduce you into
@@ -66,7 +66,7 @@ years about logistics.
 `Vigo Port <http://puertodevigo.com/category/portada/>`__ is one of the biggest
 Europe ports, and nowadays Council and government are working to extend it a bit
 more. Nowadays Vigo it's used by more than 50 shipping lines, and a lot of this
-are `RO-RO based<https://en.wikipedia.org/wiki/Roll-on/roll-off>`, so moving
+are `RO-RO based <https://en.wikipedia.org/wiki/Roll-on/roll-off>`__, so moving
 cars are one of the primary activities. Last May council announced a new project
 to provide service to the new RO-RO ships with two access ramps. Regarding
 shipping lines, it is easy if you see the following maps and see how many
@@ -320,5 +320,5 @@ green mentality and with thousands and thousands of wonderful people around.
 
 So the only thing that I can say, if any Tesla Managers read this post and you
 want to visit Vigo, I’ll pay your flight, I will love that you come to here, I
-know that when you arrive, you don’t want to come back!
+know that when you arrive, you don’t want to leave!
 
