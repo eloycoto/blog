@@ -12,13 +12,13 @@ Why Tesla should build the European factory in Vigo?
 :keywords: vigo, Galicia, tesla, automotive, citroen
 
 
-Let me introduce you into
-`Galicia <https://en.wikipedia.org/wiki/Galicia_(Spain)>`__. Galicia is in the
-north-west of Spain and up-north of Portugal. Galicia is a historic state that
-is part of Spain from hundred of years ago. The primary industries of Galicia
-are fishing, automotive, farming and textile. In the last years is know as
-**Galifornia**, you can read
-`here <https://www.quobis.com/2013/08/09/come-to-galifornia-galician-california/>`__
+Let me introduce you into `Galicia
+<https://en.wikipedia.org/wiki/Galicia_(Spain)>`__. Galicia is in the north-west
+of Spain and up-north of Portugal. Galicia is a historic state that is part of
+Spain since hundred of years ago. The primary industries of Galicia are fishing,
+automotive, farming and textile. In the last years is know as **Galifornia**,
+you can read `here
+<https://www.quobis.com/2013/08/09/come-to-galifornia-galician-california/>`__
 more about it.
 
 
@@ -28,8 +28,8 @@ more about it.
 
    Vigo landscape
 
-But without be boring, let me introduce you why next Tesla factory should be in
-`Vigo-Galicia <https://en.wikipedia.org/wiki/Vigo>`__.
+But without being boring, let me introduce you why next Tesla factory should be
+in `Vigo-Galicia <https://en.wikipedia.org/wiki/Vigo>`__.
 
 Plenty of cheap lands to set up a factory
 -----------------------------------------
@@ -38,8 +38,8 @@ From early 1940 `Vigo <https://en.wikipedia.org/wiki/Vigo>`__ has grown a lot,
 from 20K people to 300K, it was caused by the industrial sector and led by
 `Citroen car factory
 <https://www.google.es/search?q=citroen+Vigo&client=firefox-b&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjwwPexw4fOAhWH7xQKHXBTBLUQ_AUICCgB&biw=1920&bih=995#imgrc=gj4X5UCQAMnUgM%3A>`__.
-Since then years a lot of factories have moved their manufacturing to Vigo Area.
-Nowadays Vigo is the biggest city in population in Galicia and 9th in Spain.
+Since then a lot of factories have moved their manufacturing to Vigo Area. At
+the moment Vigo is the biggest city in population in Galicia and 9th in Spain.
 
 Industrial is a hight priority of the council and the government, so they use to
 anticipate to the companies and new plans to accommodate more factories are
@@ -52,8 +52,8 @@ restaurants, etc.. )
 
 This space was developed in 2005, and the idea was to host the first Mitsubishi
 Batteries factory in Europe. However the Tsunami in Japan and its consequences
-resulted in a cancellation of the project, so now space is ready to be taken by
-another company.
+resulted in a cancellation of the project, so now that space is ready to be
+taken by another company.
 
 Good Logistics: port, airport, train, AVE
 -----------------------------------------
@@ -64,19 +64,17 @@ per-square-meter in the world, so the city has learnt a lot from the last fifty
 years about logistics.
 
 `Vigo Port <http://puertodevigo.com/category/portada/>`__ is one of the biggest
-Europe ports, and nowadays Council and government are working to extend it a bit
-more. Nowadays Vigo it's used by more than 50 shipping lines, and a lot of this
-are `RO-RO based <https://en.wikipedia.org/wiki/Roll-on/roll-off>`__, so moving
-cars are one of the primary activities. Last May council announced a new project
-to provide service to the new RO-RO ships with two access ramps. Regarding
-shipping lines, it is easy if you see the following maps and see how many
-countries can be reached from the Vigo:
+Europe ports. At the moment council and government are working to extend it a
+bit more. Last May the council started a project to provide service to the new
+`RO-RO <https://en.wikipedia.org/wiki/Roll-on/roll-off>`__ ships with two access
+ramps. In terms of shipping lines, Vigo counts with more than 50 shipping lines
+as you can see in the following map.
 
 .. raw:: html
 
     <iframe width="100%" height="520" frameborder="0" src="https://eloycoto.carto.com/viz/2156f488-4d80-11e6-aa0f-0ee66e2c9693/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-concerning Iberia distribution can be done using the train. It has gotten
+Concerning Iberia distribution can be done using the train. It has gotten
 improved in the last years, and all Iberia and France will be connected using
 the high-speed train. This high-speed train is under development and in the
 following years a lot of new routes will be opened.
@@ -87,10 +85,10 @@ following years a lot of new routes will be opened.
    Ro-Ro terminal, 900K square meters and nine ramps
 
 I spoke about the car’s movement, but logistics is not only about cars. In
-Galicia(A Coruña) is located Inditex (Zara) base headquarters, one of the
-TOP-25 companies in Europe. Zara has a good compromise with the quality, and
-all batch of clothes are checked in Galicia offices, so container logistic is
-quite good acceptable.
+Galicia(A Coruña) is located Inditex (Zara) headquarters, one of the TOP-25
+companies in Europe. Zara has a good compromise with the quality and all batch
+of clothes are checked in Galicia offices, so container logistic is well
+structured over Galicia.
 
 .. figure:: img/tesla/fly_to_vigo.jpg
    :alt: class
@@ -100,7 +98,7 @@ quite good acceptable.
 It’s important to mention a few companies that are making some innovations in
 logistics. Our flagship, `Kaleido Logistic
 <http://www.kaleidologistics.com/>`__, is one of the most innovative logistics
-enterprises in the world, for example, `last March they announced a new startup
+enterprises in europe, for example, `last March they announced a new startup
 accelerator <http://info.rocketspace.com/logistics-tech-accelerator>`__ with the
 San Francisco based RockSpace.
 
@@ -115,26 +113,26 @@ main topics are industrial, electronics and telecommunications. A second branch
 is under development with BioTechnologies and Sea (is the second main industry
 in the city).
 
-Spain university, in general, improved a lot in the last years and keep growing
-each year. These well-educated students are providing results now, for example,
-tech companies like `Quobis <http://quobis.com>`__ (World leader in WebRTC
-solutions), `Televes <https://www.televes.com/en/eng/home>`__ (World leader in
-TV communications), `Marine Instruments
+Spanish university, in general, improved a lot in the last years and keeps
+growing each year. These well-educated students are providing results now, for
+example, tech companies like `Quobis <http://quobis.com>`__ (World leader in
+WebRTC solutions), `Televes <https://www.televes.com/en/eng/home>`__ (World
+leader in TV communications), `Marine Instruments
 <http://www.marineinstruments.es/?lang=en>`__ (World Leader in buoys for
-fishing) that was part of the first students in the local universities.
+fishing). These companies were founded by local students.
 
 But these students are part of multiple foreign companies that are based here
-and provide quite successful products. For example, all the robots that Citroen
-are using in Vigo factory were made by local workforce; I need to say that
-the CNC expertise in Vigo is quite powerful.
+and they provide quite successful products. For example, all the robots that
+Citroen are using in Vigo factory were made by local workforce; I need to say
+that the CNC expertise in Vigo is quite valueable.
 
 As each city, we have a startup movement; a few entrepreneur try to build their
-companies. There is a gap for Galicia startup ecosystem that the presence of
-seed or VC capital is too small, so some R&D projects died during cash-flow
-problems. There were some good projects, like Satelite launch and some Electric
-car charger, both died caused by cash.
+companies. There is a gap between Galicia and startup ecosystem; VC capital is
+too small. In the last year, some R&D projects died during cash-flow problems.
+There were some real projects: like Satelite launch and some Electric car
+charger; both died caused by cash.
 
-In 2008 Spain had a big bank crisis, so get foreign investment were too
+In 2008 Spain had a big bank crisis, so getting foreign investment were too
 difficult. Meanwhile, all the hundred well-educated students finish their
 studies, and they can't get work. The result of this equation was that a lot of
 young people move to work abroad (Me included). Nowadays thousands of Vigo
@@ -142,14 +140,14 @@ students moved to UK, France, Germany, etc... Linkedin says that more than 1000
 engineers from the University of Vigo are in London, more than 300 in France,
 and more than 500 in Germany. These are only from Vigo University, in Galicia,
 we had three different Universities. These engineers want to be in their
-hometown with their families, so a new Tesla Factory will be excellent option
+hometown with their families so a new Tesla Factory will be an excellent option
 to come back to home.
 
 On the other hand, a recent study made by `"El
 Confidencial" <http://www.elconfidencial.com/>`__ reported that `20% of the total
 Spain immigration is from
 Galicia <https://translate.google.com/translate?hl=en&sl=es&tl=en&u=www.elconfidencial.com%2Fespana%2Fgalicia%2F2016-07-25%2Fgalicia-morrina-emigracion-argentina-europa_1237613%2F>`__.
-Nowadays Galicia represent around 5.5% of Spain population.
+In 2015 Galicia represented around 5.5% of the Spanish population.
 
 .. raw:: html
 
@@ -160,31 +158,30 @@ Public support
 --------------
 
 As you read, the government is pretty involved with the private company's
-success. Be part of Vigo means that a new factory like Tesla can use free port
-facilities, these means that port has an area adjoining a port where goods that
-are intended for ship to another country don’t need to pay duties. So this will
-be too useful for Tesla logistics in Europe.
+success. Being part of Vigo means that a new factory like Tesla can use the Duty
+Free area, where goods that are meant to be reshipped to another country don’t
+need to pay duties. This will be useful for Tesla logistics in Europe.
 
 In the other hand, nowadays Galicia government has a financial plan called
 `Industry 4.0
 <http://www.igape.es/es/ser-mais-competitivo/galiciaindustria4-0>`__. This
-program is based to help private companies with the 40% of the private
+program is based to help private companies with grants up to 40% of the private
 investment in the automatization of the process, without limit in the top, so
 for each $1M that Tesla invest in innovation, Galicia government will return
-$400K (This have some constraints, but the main idea is that)
+$400K (This have some constraints, but that is the main idea)
 
 Automotive cluster in the region
 ---------------------------------
 
-So as you read, Vigo is pretty involved in the automotive sector. The Citroen
+As I started before, Vigo is pretty involved in the automotive sector. The Citroen
 Factory building was a boost for the city in 1960, and nowadays we have a
 high-quality network of automotive providers in the area.
 
-In the early 2000s, were good years to all of these vendors, some of them
+In the early 2000s, which were good years to all of these vendors, some of them
 started to work with different brands, so nowadays all the auxiliary providers
-had experience with more vendors, they are not locked with Citroen. This
-network built a few years ago a new association of companies to set waypoints
-for the near future about the common benefits.
+had experience with more vendors, they are not locked with Citroen. This network
+built a few years ago a new association of companies to set waypoints for the
+near future about the common benefits.
 
 .. figure:: img/tesla/valladares.jpg
    :alt: class
@@ -212,12 +209,14 @@ Barreiros <http://yale.universitypressscholarship.com/view/10.12987/yale/9780300
 this guy built a company that converts petrol truck engines to diesel. Bussines
 was very successful and in 1959 it was acquired by Chrysler.
 
-Around all car manufacturing and the provider network, Galicia can be proud that
-some companies related with automotive. For example, `Urovesa <http://www.urovesa.com/en/vehiculos.php>`__ provides car/trucks solutions to
+Around all car manufacturing and the provider network, Galicia can be proud to
+host some automotive companies. For example, `Urovesa
+<http://www.urovesa.com/en/vehiculos.php>`__ provides car/trucks solutions to
 military and firefighters, that is used by almost all European armies. About
 trucks, Ourense based `UNVI <http://www.unvibus.com/en/>`__ build thousands of
 trucks and buses to all Europe. Related to the innovation, we need to mention a
-small company that produces `thousands of electric recreational cars per year <http://little-cars.es/>`__.
+small company that produces `thousands of electric recreational cars per year
+<http://little-cars.es/>`__.
 
 Good standard of life for the employees
 ----------------------------------------
@@ -274,7 +273,7 @@ nowadays they are pretty big for the country.
 I need to mention the bad parts, two years ago Spanish government added a
 penalty to the sun energy, so in the last few years, this generated a lot of
 controversial issues about that. I hope that this bill will be removed and keep
-Spain as green as all Spanish want!
+Spain as green as all Spanish people want!
 
 Industrial ecosystem
 ---------------------
@@ -310,7 +309,7 @@ from Galicia. So it have been a boost for our industrial ecosystem.
 
 I don’t have more reasons why Tesla must build their next factory in Galicia. In
 the last years I took more than 200 flights; saw a lot of cities and I were on a
-few continents, I’m in love with the city that I born! There are some
+few continents, I’m in love with the city where I was born! There are some
 problems in Galicia, but in the last years, I also learnt that there are
 problems everywhere, and Galicia is too awesome as it appears.
 
