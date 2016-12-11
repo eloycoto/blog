@@ -17,7 +17,7 @@ future of developement from my POV.
 
 .. raw:: html
 
-    <div style="width: 70%;" class="align-center">
+    <div style="width: 70%;" class="align-center" align="center">
     <script async class="speakerdeck-embed"
     data-id="aa586cf790a24bbc84707189435e2c42" data-ratio="1.77777777777778"
     src="//speakerdeck.com/assets/embed.js"></script>

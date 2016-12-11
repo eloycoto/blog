@@ -18,7 +18,7 @@ other tools for measure and deploy.
 
 .. raw:: html
 
-    <div style="width: 70%;" class="align-center">
+    <div style="width: 70%;" class="align-center" align="center">
     <script async class="speakerdeck-embed"
     data-id="abbbacd7686645a5a37408e7e713f564" data-ratio="1.77777777777778"
     src="//speakerdeck.com/assets/embed.js"></script>
