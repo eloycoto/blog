@@ -84,12 +84,12 @@ o seguinte:
 
 Contando, que moita xente, axudaría e abriría en horas non laborais. O espazo
 tería unha vida propia por moita xente da comunidade ao mais puro estilo
-asociación veciñal. En canto ao presuposto, e grande no inicio, pero
-reduciríase aos 80.000 euros anuais a partir do segundo
-ano(Laboral/Legais/Gastos correntes).  Sendo un presuposto minúsculo en
-relación cos presupostos das administracións localizadas en Vigo:
-Concello(230M€), Zona Franca (55M€), Axencia Portuaria (25M€), Deputación de
-Pontevedra (150M), Eixo Atlántico (3M€), Xunta (9.000M€)
+asociación veciñal. En canto ao presuposto, e grande no inicio, pero reduciríase
+aos 80.000 euros anuais a partir do segundo ano(Laboral/Legais/Gastos
+correntes).  Sendo un presuposto minúsculo en relación cos presupostos das
+administracións localizadas en Vigo: Concello(230M€), Zona Franca (55M€),
+Autoridade Portuaria (25M€), Deputación de Pontevedra (150M), Eixo Atlántico
+(3M€), Xunta (9.000M€)
 
 .. image:: img/hackathon-supertramp.jpg
    :alt: Hackahton Sanjurjo Badía participantes
@@ -105,7 +105,7 @@ Sanjurjo Badía. E presentouse en Zona Franca a inicios de Outubro. Ambas
 administracións, en maior ou menor media, amosaron a súa implicación no
 proxecto, polo menos escoitaron, o que xa significaba un triunfo.
 
-Ca Axencia portuaria de Vigo por desgraza, en ano e medio, non conseguimos ter
+Ca Autoridade portuaria de Vigo por desgraza, en ano e medio, non conseguimos ter
 unha reunión con eles. Intentamos contactar con eles antes da `Hackathon
 Sanjurjo Badía <http://hacksb.vigolabs.gal/>`__, sendo imposible. Despois desta,
 foi imposible cadrar axenda para ter unha reunión. Debido a nula comunicación,
@@ -135,10 +135,10 @@ mirou en internet o resultado da Hackathon Sanjurjo Badía. A raíz de un par de
 correos eles ofrecéronnos traballo para incorporarnos no seu `proxecto de
 promoción de empresas tecnolóxicas do mar
 <https://www.portofrotterdam.com/en/events/opening-ramlab>`__. Temos envexa,
-que a Axencia Portuaria de Rotterdam leva cinco edicións da súa `Hackathon
+que a Autoridade Portuaria de Rotterdam leva cinco edicións da súa `Hackathon
 <http://worldporthackathon.com/>`__, chamada World, pelexando co Mundo, non con
 Marín ou Leixoes, e repartindo premios de 15.000€ aos asistentes. Mentres que a
-propia axencia portuaria dotou o seu MediaLab das últimas novidades de
+propia Autoridade portuaria dotou o seu MediaLab das últimas novidades de
 `Impresión 3D en metal
 <https://www.portofrotterdam.com/en/news-and-press-releases/ramlab-opens-at-rdm-rotterdam>`__.
 É unha pena que estas iniciativas en Vigo teñan que vir da man de persoas
