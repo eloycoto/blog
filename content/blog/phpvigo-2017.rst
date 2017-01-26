@@ -3,9 +3,9 @@ Postgresql Talk in the PHPVigo meetup
 
 :date: 2017-01-25 16:00
 :language: en-GB
-:head: Slides of my PHPVigo meetup about Postgresql
-:index_title: Slides of my PHPVigo meetup about Postgresql
-:metatitle: Slides of my PHPVigo meetup about Postgresql
+:head: Postgresql slides of my talk in PHPVigo Meetup
+:index_title: Postgresql slides of my talk in PHPVigo Meetup
+:metatitle: Postgresql slides of my talk in PHPVigo Meetup
 :tags: postgresql, phpvigo, talks
 :metatags: postgresql, phpvigo, talks, vigo
 :description: Slides from my talk in the PHPVigo Meetup
