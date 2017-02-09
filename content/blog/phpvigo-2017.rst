@@ -8,8 +8,9 @@ Postgresql Talk in the PHPVigo meetup
 :metatitle: Postgresql slides of my talk in PHPVigo Meetup
 :tags: postgresql, phpvigo, talks
 :metatags: postgresql, phpvigo, talks, vigo
-:description: Slides from my talk in the PHPVigo Meetup
+:description: PHPVigo is a group of high skills devs. I was speaking in Jan 2017 about Postgresql, where datatypes, complex queries, with clauses were introduced.
 :keywords: postgresql, phpvigo, talks, vigo
+
 
 I had the luck to gave a talk at  the `PHPVigo Meetup
 <https://www.meetup.com/es-ES/PHPVigo/>`__. It was a postgresql introduction to
