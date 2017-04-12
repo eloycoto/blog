@@ -1,9 +1,9 @@
 Dockercon Europe 14
-===================
+=====================
 
 :date: 2014-12-10
 :language: en-GB
-    : head: My review of Dockercon Europe 14
+:head: My review of Dockercon Europe 14
 :index_title: Dockercon Europe 14 review.
 :metatitle: Dockercon Europe 14 review about all the talks&annoucements.
 :tags: docker, kamailio
