@@ -10,168 +10,314 @@
   <meta name="robots" content="index,follow" />
 {% endblock %}
 
-{%block headtitle%}
-<div class="title container">
-  <div class="row">
-    <div class="col-3 col-offset-2">
-      <img src="/theme/images/profile.jpg" class="profile">
-    </div>
-    <div class="col-6" style="">
-      <div class="row">
-        <h1>Hello! I'm <b>Eloy Coto</b> and I love Voip and Webrtc Apps</h1>
-      </div>
-      <div class="row">
-        <h3>Currently I'm working remotely at Foehn from Galiza Spain</h3>
-      </div>
-    </div>
-  </div><!--row -->
+{# {%block headtitle%} #}
+{# <div class="title container"> #}
+{#   <div class="row"> #}
+{#     <div class="col-3 col-offset-2"> #}
+{#       <img src="/theme/images/profile.jpg" class="profile"> #}
+{#     </div> #}
+{#     <div class="col-6" style=""> #}
+{#       <div class="row"> #}
+{#         <h1>Hello! I'm <b>Eloy Coto</b> and I love Voip and Webrtc Apps</h1> #}
+{#       </div> #}
+{#       <div class="row"> #}
+{#         <h3>Currently I'm working remotely at Foehn from Galiza Spain</h3> #}
+{#       </div> #}
+{#     </div> #}
+{#   </div><!--row --> #}
 
-  <div class="row">
-    <div class="col-3 box" style="">
-      <h2><i class="fa fa-phone"></i> Voip</h2>
-      <p>
-       I've started in Voip in 2008. I started with Asterisk server and Openser. Nowadays I worked with all kind of installations and I'm Kamailio core developer.
-      </p>
-    </div>
-    <div class="col-3 box" style="">
-      <h2><i class="fa fa-gear"></i> Backend</h2>
-      <p>
-        I've made a lot of my projects in python. It has elegance, power and flexibility for that. In the other hand, Django is my favourite framework. In the last months I'm playing a bit with Golang.
-      </p>
-    </div>
+{#   <div class="row"> #}
+{#     <div class="col-3 box" style=""> #}
+{#       <h2><i class="fa fa-phone"></i> Voip</h2> #}
+{#       <p> #}
+{#        I've started in Voip in 2008. I started with Asterisk server and Openser. Nowadays I worked with all kind of installations and I'm Kamailio core developer. #}
+{#       </p> #}
+{#     </div> #}
+{#     <div class="col-3 box" style=""> #}
+{#       <h2><i class="fa fa-gear"></i> Backend</h2> #}
+{#       <p> #}
+{#         I've made a lot of my projects in python. It has elegance, power and flexibility for that. In the other hand, Django is my favourite framework. In the last months I'm playing a bit with Golang. #}
+{#       </p> #}
+{#     </div> #}
 
-    <div class="col-3 box" style="">
-      <h2><i class="fa fa-puzzle-piece"></i> System</h2>
-      <p>When you work in Voip you need system skills. In the last years I'm working a lot with DevOps tools, Packer, Ansible, Terraform and Consul are my swiss knife.</p>
-    </div>
+{#     <div class="col-3 box" style=""> #}
+{#       <h2><i class="fa fa-puzzle-piece"></i> System</h2> #}
+{#       <p>When you work in Voip you need system skills. In the last years I'm working a lot with DevOps tools, Packer, Ansible, Terraform and Consul are my swiss knife.</p> #}
+{#     </div> #}
 
-    <div class="col-3 box" style="">
-      <h2><i class="fa fa-signal"></i> Bussines</h2>
-      <p>I always work in startups and small companies. I love the business and help to my team to grow. I'm passionate, creative and very pro-active in my work. I use to provide solutions instead of problems</p>
-    </div>
-  </div><!--row-->
-</div><!--container-->
-{%endblock%}
+{#     <div class="col-3 box" style=""> #}
+{#       <h2><i class="fa fa-signal"></i> Bussines</h2> #}
+{#       <p>I always work in startups and small companies. I love the business and help to my team to grow. I'm passionate, creative and very pro-active in my work. I use to provide solutions instead of problems</p> #}
+{#     </div> #}
+{#   </div><!--row--> #}
+{# </div><!--container--> #}
+{# {%endblock%} #}
 
 
 {%block content%}
 <div class="row">
-  <div class="col-9 resume">
-    <h2 class="resumetitle">Resume</h2>
+  <div class="profile">
+    <div class="Headtitle">
+      <h1>Eloy Coto</h1>
+
+      <p>People enthusiast, developer advocate and open-source supported.</p>
+    </div>
 
     <div class="row">
-     <div class="col-4">
-      <img src="/theme/images/foehn.png">
-     </div><!--col-->
-     <div class="col-8">
-      <h2>Voip Developer at Foehn</h2>
-     </div><!--col-->
-    </div><!--row-->
 
-    <div class="row">
-      <div class="col-offset-4 col-8">
+      <div class="col-6 center">
+        <img src="/theme/images/profile.jpg" class="head">
+      </div>
+
+      <div class="col-6">
+        <h2>About me</h2>
         <p>
-        Foehn has a lot of fun for me. We're running our Hosted PBX solution and
-        hundreds of customers are using it. In the other hand we spend time in
-        disruptive applications, like Rekord. My achievements in Foehn are:
-
-        <ul>
-          <li>I move to CI/CD process all the company</li>
-          <li>Continuous Delivery based in new tools like Terraform or Consul on in-house datacenter</li>
-          <li>Improved the billing risk in the company using CGRates</li>
-          <li>Inserted metrics tools like Grafana</li>
-          <li>Deployed some Voip residential services across UK</li>
-        </ul>
+          Hey, I'm Eloy, a software developer based in Galicia (north-west of Spain).
+          Over the last years, I'm working on multiple software projects mainly
+          related to real-time apps and VoIP. I'm familiar with, and hugely supported
+          of, the DevOps culture and how to make it work in the team that I'm working
+          with. Moreover, I am a proud contributor of Packer, Ansible, Cilium or
+          Terraform.
+        </p>
       </div>
-    </div><!--row-->
+
+		</div> <!--row-->
+
 
     <div class="row">
-     <div class="col-4">
-      <img src="/theme/images/webphone.png" style="margin-top:18px;width:75%">
-     </div><!--col-->
-     <div class="col-8">
-      <h2>Voip Developer at Webphone</h2>
-     </div><!--col-->
-    </div><!--row-->
 
-    <div class="row">
-      <div class="col-offset-4 col-8">
-        <p>I started in Webphone after the company won SeedRocket Spain. The company needed provide service to different countries and I was the head of Voip. Furthermore I was involved in different customer projects related with inbound marketing. Finally I was the first foreign employee based in the Google Campus in London.</p>
-        <ul>
-          <li>Product internationalization to more than 10 countries</li>
-          <li>New voip infrastructure based on Kamailio+Asterisk</li>
-          <li>Added prepaid and billing system to the platform</li>
-          <li>New control panel based on Symfony Framework</li>
-          <li>New RestAPI in Nodejs</li>
-        </ul>
+      <div class="col-4 box" style="">
+        <h2><i class="fa fa-gear"></i> Linux</h2>
+        <p>
+          My real passion from the college. Love to work with this OS,
+          escalate and create apps on top of it.
+        </p>
       </div>
-    </div><!--row-->
 
-    <div class="row">
-     <div class="col-4">
-      <img src="/theme/images/quobis.png" style="margin-top:18px;width:75%">
-     </div><!--col-->
-     <div class="col-8">
-      <h2>Voip Sysadmin at Quobis</h2>
-     </div><!--col-->
-    </div><!--row-->
-
-    <div class="row">
-      <div class="col-offset-4 col-8">
-        <p> In Quobis I started to work as intern, I enjoyed a lot during years. I started in customer services, handling issues. After a few years I was head of customer service and I was the first full-time developer, and we started to built our products.
-        <ul>
-          <li>Deployed Voip HA servers</li>
-          <li>Configuration of Voip services for big corporations and carriers</li>
-          <li>Developed new products related with recordings.</li>
-          <li>Adapt support process to ISO-2000 requirements</li>
-        </ul>
+      <div class="col-4 box" style="">
+        <h2><i class="fa fa-fighter-jet"></i> Python</h2>
+        <p>
+        Simple and powerful with awesome libraries on top of it. The base of
+        almost all my apps.
+        </p>
       </div>
-    </div><!--row-->
 
 
-  </div>
-  <div class="col-3" itemscope itemtype="http://schema.org/ItemList">
-    <h2 itemprop="name">Skills</h2>
-    <div class="row">
-      <h3>Voip</h3>
-      <div class="progress"><div class="progress-bar" style="width:100%" itemprop="itemListElement">SIP</div></div>
-      <div class="progress"><div class="progress-bar" style="width:85%" itemprop="itemListElement">XMPP</div></div>
-      <div class="progress"><div class="progress-bar" style="width:75%" itemprop="itemListElement">Webrtc</div></div>
-      <div class="progress"><div class="progress-bar" style="width:95%" itemprop="itemListElement">Asterisk</div></div>
-      <div class="progress"><div class="progress-bar" style="width:100%" itemprop="itemListElement">Kamailio</div></div>
-      <div class="progress"><div class="progress-bar" style="width:75%" itemprop="itemListElement">Freeswitch</div></div>
-    </div>
-    <div class="row">
-      <h3>Programming</h3>
-      <div class="progress"><div class="progress-bar" style="width:90%" itemprop="itemListElement">Python</div></div>
-      <div class="progress"><div class="progress-bar" style="width:70%" itemprop="itemListElement">Javascript</div></div>
-      <div class="progress"><div class="progress-bar" style="width:60%" itemprop="itemListElement">C</div></div>
-      <div class="progress"><div class="progress-bar" style="width:60%" itemprop="itemListElement">Golang</div></div>
-    </div>
+      <div class="col-4 box" style="">
+        <h2><i class="fa fa-phone"></i> Voip</h2>
+        <p>
+        From SIP towards Webrtc using Asterisk, Kamailio and Freeswitch since
+        2008.
+        </p>
+      </div>
+
+    </div> <!--row-->
+
 
     <div class="row">
-      <h3>System</h3>
-      <div class="progress"><div class="progress-bar" style="width:90%" itemprop="itemListElement">Linux</div></div>
-      <div class="progress"><div class="progress-bar" style="width:80%" itemprop="itemListElement">Containers</div></div>
-      <div class="progress"><div class="progress-bar" style="width:80%" itemprop="itemListElement">Config Management</div></div>
-      <div class="progress"><div class="progress-bar" style="width:80%" itemprop="itemListElement">Service Discovery</div></div>
-      <div class="progress"><div class="progress-bar" style="width:75%" itemprop="itemListElement">Postgresql</div></div>
-      <div class="progress"><div class="progress-bar" style="width:60%" itemprop="itemListElement">NoSQL</div></div>
-    </div>
-  </div>
-</div>
+      <div class="col-4 box" style="">
+        <h2><i class="fa fa-flask"></i> Go</h2>
+        <p>
+        A programming language in the middle of C and Python. Really enjoy to
+        using in high concurrency projects.
+        </p>
+      </div>
 
-<div class="row">
-  <div class="col-9">
-    <h2>In the blog</h2>
-    <ul>
-      {% for article in articles %}
-        {% if article.index_title %}
-          <li><a href="/{{ article.url }}">{{article.index_title}}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+
+      <div class="col-4 box" style="">
+        <h2><i class="fa fa-puzzle-piece"></i> Ops</h2>
+        <p>
+        Dealing with infrastructure is fun. Love to make new things using new
+        tools like Docker, Consul or Kubernetes.
+        </p>
+      </div>
+
+      <div class="col-4 box" style="">
+        <h2><i class="fa fa-truck"></i> CI/CD</h2>
+        <p>
+        Spend less time in repetitive tasks is my priority. Love to use tools
+        like AWS, Terraform, Docker, Kubernetes, Jenkins to avoid to do boring
+        things.
+        </p>
+      </div>
+
+    </div> <!--row-->
   </div>
-</div>
+
+  <div class="row">
+
+    <div class="profile">
+      <div class="row">
+        <div class="col-6 pr_list">
+          <h1>Open-source contributions</h1>
+          {% for key, value in CONTRIBUTIONS.items() | sort %}
+            <li><b>{{key}}</b></li>
+            <ul class="pr_list">
+              {% for item in value %}
+                <li><a href="{{item.url}}">{{item.name}}</a>: {{item.desc}}</li>
+              {% endfor %}
+            </ul>
+          {% endfor %}
+        </div>
+
+        <div class="col-6">
+          <h1>In the blog</h1>
+          <ul>
+            {% for article in articles %}
+              {% if article.index_title %}
+                <li><a href="/{{ article.url }}">{{article.index_title}}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div><!--row-->
+
+
+      <div class="row">
+        <div class="col-6">
+          <h1>Experience</h1>
+          <ul>
+            <li><b>Foehn</b>(Jan 2013 - Sep 2017) Software Developer & DevOps</li>
+            <li><b>Webphone</b>(Nov 2011 - Jan 2013) Voip Developer</li>
+            <li><b>Quobis</b>(April 2008 - Juni 2011) Voip Developer</li>
+          </ul>
+        </div>
+
+        <div class="col-6">
+          <h1>Social</h1>
+          <ul>
+            <li><b>A Industriosa</b>(Jan 2017) Founder of the first medialab in Vigo.</li>
+            <li><b>Vigolabs</b>(Jan 2015-Ongoing) Founder of the longest meetup in the city. Related with IoT and Industrial technology.</li>
+            <li><b>Hackathon Sanjurjo Badía</b>(Feb 2015) Organiser, with 130 atteendes around Marine technology.</li>
+            <li><b>HackVG</b>(Jan 2014) Organiser, with 30 atteendes </li>
+            <li><b>Rally Serra da groba</b>(Nov 2011) North-west rally championship. Organiser of all service park (20K atteendes)</li>
+            <li><b>Subida a Vigo</b>(Sep 2007) North-west high-climp championship. Organiser</li>
+          </ul>
+        </div>
+
+      </div><!--row-->
+    </div>
+
+  </div> <!--row-->
+
+
+
+  {# <div class="col-9 resume"> #}
+  {#   <h2 class="resumetitle">Resume</h2> #}
+
+  {#   <div class="row"> #}
+  {#    <div class="col-4"> #}
+  {#     <img src="/theme/images/foehn.png"> #}
+  {#    </div><!--col--> #}
+  {#    <div class="col-8"> #}
+  {#     <h2>Voip Developer at Foehn</h2> #}
+  {#    </div><!--col--> #}
+  {#   </div><!--row--> #}
+
+  {#   <div class="row"> #}
+  {#     <div class="col-offset-4 col-8"> #}
+  {#       <p> #}
+  {#       Foehn has a lot of fun for me. We're running our Hosted PBX solution and #}
+  {#       hundreds of customers are using it. In the other hand we spend time in #}
+  {#       disruptive applications, like Rekord. My achievements in Foehn are: #}
+
+  {#       <ul> #}
+  {#         <li>I move to CI/CD process all the company</li> #}
+  {#         <li>Continuous Delivery based in new tools like Terraform or Consul on in-house datacenter</li> #}
+  {#         <li>Improved the billing risk in the company using CGRates</li> #}
+  {#         <li>Inserted metrics tools like Grafana</li> #}
+  {#         <li>Deployed some Voip residential services across UK</li> #}
+  {#       </ul> #}
+  {#     </div> #}
+  {#   </div><!--row--> #}
+
+  {#   <div class="row"> #}
+  {#    <div class="col-4"> #}
+  {#     <img src="/theme/images/webphone.png" style="margin-top:18px;width:75%"> #}
+  {#    </div><!--col--> #}
+  {#    <div class="col-8"> #}
+  {#     <h2>Voip Developer at Webphone</h2> #}
+  {#    </div><!--col--> #}
+  {#   </div><!--row--> #}
+
+  {#   <div class="row"> #}
+  {#     <div class="col-offset-4 col-8"> #}
+  {#       <p>I started in Webphone after the company won SeedRocket Spain. The company needed provide service to different countries and I was the head of Voip. Furthermore I was involved in different customer projects related with inbound marketing. Finally I was the first foreign employee based in the Google Campus in London.</p> #}
+  {#       <ul> #}
+  {#         <li>Product internationalization to more than 10 countries</li> #}
+  {#         <li>New voip infrastructure based on Kamailio+Asterisk</li> #}
+  {#         <li>Added prepaid and billing system to the platform</li> #}
+  {#         <li>New control panel based on Symfony Framework</li> #}
+  {#         <li>New RestAPI in Nodejs</li> #}
+  {#       </ul> #}
+  {#     </div> #}
+  {#   </div><!--row--> #}
+
+  {#   <div class="row"> #}
+  {#    <div class="col-4"> #}
+  {#     <img src="/theme/images/quobis.png" style="margin-top:18px;width:75%"> #}
+  {#    </div><!--col--> #}
+  {#    <div class="col-8"> #}
+  {#     <h2>Voip Sysadmin at Quobis</h2> #}
+  {#    </div><!--col--> #}
+  {#   </div><!--row--> #}
+
+  {#   <div class="row"> #}
+  {#     <div class="col-offset-4 col-8"> #}
+  {#       <p> In Quobis I started to work as intern, I enjoyed a lot during years. I started in customer services, handling issues. After a few years I was head of customer service and I was the first full-time developer, and we started to built our products. #}
+  {#       <ul> #}
+  {#         <li>Deployed Voip HA servers</li> #}
+  {#         <li>Configuration of Voip services for big corporations and carriers</li> #}
+  {#         <li>Developed new products related with recordings.</li> #}
+  {#         <li>Adapt support process to ISO-2000 requirements</li> #}
+  {#       </ul> #}
+  {#     </div> #}
+  {#   </div><!--row--> #}
+
+
+  {# </div> #}
+  {# <div class="col-3" itemscope itemtype="http://schema.org/ItemList"> #}
+  {#   <h2 itemprop="name">Skills</h2> #}
+  {#   <div class="row"> #}
+  {#     <h3>Voip</h3> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:100%" itemprop="itemListElement">SIP</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:85%" itemprop="itemListElement">XMPP</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:75%" itemprop="itemListElement">Webrtc</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:95%" itemprop="itemListElement">Asterisk</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:100%" itemprop="itemListElement">Kamailio</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:75%" itemprop="itemListElement">Freeswitch</div></div> #}
+  {#   </div> #}
+  {#   <div class="row"> #}
+  {#     <h3>Programming</h3> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:90%" itemprop="itemListElement">Python</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:70%" itemprop="itemListElement">Javascript</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:60%" itemprop="itemListElement">C</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:60%" itemprop="itemListElement">Golang</div></div> #}
+  {#   </div> #}
+
+  {#   <div class="row"> #}
+  {#     <h3>System</h3> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:90%" itemprop="itemListElement">Linux</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:80%" itemprop="itemListElement">Containers</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:80%" itemprop="itemListElement">Config Management</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:80%" itemprop="itemListElement">Service Discovery</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:75%" itemprop="itemListElement">Postgresql</div></div> #}
+  {#     <div class="progress"><div class="progress-bar" style="width:60%" itemprop="itemListElement">NoSQL</div></div> #}
+  {#   </div> #}
+  {# </div> #}
+{# </div> #}
+
+{# <div class="row"> #}
+  {# <div class="col-9"> #}
+  {#   <h2>In the blog</h2> #}
+  {#   <ul> #}
+  {#     {% for article in articles %} #}
+  {#       {% if article.index_title %} #}
+  {#         <li><a href="/{{ article.url }}">{{article.index_title}}</a></li> #}
+  {#       {% endif %} #}
+  {#     {% endfor %} #}
+  {#   </ul> #}
+  {# </div> #}
+{# </div> #}
 
 {% endblock %}

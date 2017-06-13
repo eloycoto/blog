@@ -9,46 +9,52 @@
   <meta name="tags" content="Docker, Asterisk, Voip, SIP, IMS, dispatcher" />
   <meta name="category" content="blog" />
   <meta name="author" content="Eloy coto" />
-  <meta name="robots" content="index,follow" />
+  <meta name="robots" content="NOINDEX" />
 {% endblock %}
 
 {% block content%}
 
-{% for article in articles %}
-  <div class="row">
-    <div class="col-10">
-      <h2><a href="/{{ article.url }}">{{article.head}}</a></h2>
-      <div class="byline">
-        Escrito por:
-        <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-          <span itemprop="name">
-            <a href="https://plus.google.com/106179242242173415236/posts" itemprop="url" rel="author">Eloy Coto Pereiro</a>
-          </span>
-        </span>
-        on
-        <time datetime="2011-05-17T22:00" itemprop="datePublished">{{article.date |strftime("%A %B %dth %Y")}}</time>
-      </div>
-    </div><!--byline-->
-  </div><!--row-->
-  <div class="row">
-    <div class="col-10">
-      {{ article.summary }}
-      <div class="row">
-        <div class="col-6 taglist">
-          {% for tag in article.tags|sort %}
-            <span class="tag">
-              <i><a href="{{SITE_URL}}/{{tag.url}}" rel="tag">{{tag}}</a></i>
+
+  {% for article in articles %}
+    <div class="row">
+
+      <article>
+        <header>
+          <h1><a href="/{{ article.url }}">{{article.head}}</a></h1>
+          <div class="byline">
+            <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+              <span itemprop="name">
+                <a href="https://plus.google.com/106179242242173415236/posts" itemprop="url" rel="author">Eloy Coto Pereiro</a>
+              </span>
             </span>
-          {% endfor %}
+            on
+            <time datetime="{{article.date | strftime("%Y-%m-%dT%H:%M:%S")}}" itemprop="datePublished">{{article.date |strftime("%B %dth, %Y")}}</time>
+          </div>
+        </header>
+
+
+        <div class="content" itemprop="articleBody">
+          {{ article.summary }}
+          <div class="row">
+            <div class="tags">
+              <h3>Tags</h3>
+              <div class="col-9 taglist">
+                {% for tag in article.tags|sort %}
+                  <span class="tag">
+                    <a href="/{{tag.url}}" rel="tag">{{tag}}</a>
+                  </span>
+                {% endfor %}
+              </div><!--taglist-->
+
+              <div class="col-3">
+                <a href="/{{ article.url }}" class="btn"><i class="fa fa-arrow-right"></i> Read more</a>
+              </div>
+            </div>
+          </div> <!--row-->
         </div>
 
-        <div class="col-3 col-offset-3">
-          <a href="/{{ article.url }}" class="btn"><i class="fa fa-arrow-right"></i> Leer mas</a>
-        </div>
-      </div>
+      </article>
     </div>
-  </div>
-{% endfor %}
+  {% endfor %}
 
 {% endblock %}
-

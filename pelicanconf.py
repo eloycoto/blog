@@ -53,5 +53,25 @@ STATIC_PATHS = [
     'extra/CNAME',
     'img',
 ]
+
+CONTRIBUTIONS = {
+    "Containers": [
+        {"name": "cilium", "desc": "Linux-native network security", "url": "https://github.com/cilium/cilium"}],
+    "DevOps": [
+        {"name": "Hashicorp/Terraform", "desc": "Infraestructure as code", "url": "https://github.com/hashicorp/terraform"},
+        {"name": "Hashicorp/Packer", "desc": "Build Automated Machine Images", "url": "https://www.packer.io/"},
+        {"name": "Vmware/Govmomi", "desc": "Go Bindings for Vsphere", "url": "https://github.com/vmware/govmomi"},
+        ],
+    "VoIP": [
+        {"name": "Kamailio", "desc": "Core Contributor", "url": "https://www.kamailio.org/w/"},
+        {"name": "CGrates", "desc": "Golang Real time billing", "url": "https://github.com/cgrates/cgrates"}],
+    "Misc": [
+        {"name": "Firefox/servo", "desc": "Web browser Engine", "url": "https://servo.org/"},
+        {"name": "Firefox/euclid", "desc": "Rust library for Geometry types", "url": "https://github.com/servo/euclid/"},
+        {"name": "Radix", "desc": "Golang Redis client", "url": "https://github.com/mediocregopher/radix.v2"},
+        {"name": "Grafana", "desc": "Analytics and monitoring", "url": "https://github.com/grafana/grafana-docker-dev-env/pull/1"}
+        ],
+}
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
