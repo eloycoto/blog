@@ -42,6 +42,18 @@
         </div> <!-- .comments-container -->
       {% endif %}
 
+      <div class="row">
+        <h4>Related articles:</h4>
+        {% if article.related_posts %}
+          <ul>
+            {% for related_post in article.related_posts %}
+              <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+
+
     </div>
 
   </article>

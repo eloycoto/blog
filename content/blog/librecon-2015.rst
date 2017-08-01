@@ -6,7 +6,7 @@ Voip talk at Librecon 2015
 :head: Librecon 2015 talk about Voip-Kamailio
 :index_title: Building Voip Provider using OpenSource
 :metatitle: Voip Provider - Kamailio, asterisk
-:tags: packer, consul, terraform, kamailio, asterisk, statsd, grafana, influxdb
+:tags: packer, consul, terraform, kamailio, asterisk, statsd, grafana,influxdb,talks
 :metatags: influxdb, statsd, grafana, kamailio, voip, asterisk
 :description: Slides from my talk in the Librecon 2015
 :keywords: statsd, influxdb, librecon, santiago, kamailio, asterisk

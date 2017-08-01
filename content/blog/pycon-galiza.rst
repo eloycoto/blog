@@ -6,7 +6,7 @@ Pycon Galicia 2016 talk
 :head: Calling to the future. PyCon Galicia 2016
 :index_title: Python Galicia 2016 talk
 :metatitle: Python Galicia 2016 talk
-:tags: gordon, python, pycon galicia, pyvigo, lamdba
+:tags: gordon, python, pycon galicia, pyvigo, lamdba, talks
 :metatags:  gordon, python, pycon galicia, pyvigo, lamdba
 :description: Slides from my talk in the Pycon Galicia related with Lambda and 12 factor apps
 :keywords: gordon, python, pycon galicia, pyvigo, lamdba
