@@ -83,4 +83,4 @@ mostra da resignación do pobo galego.
 .. epigraph::
 
     La mitad de los gallegos no sabemos nadar, dijo al fin. Nos ahogamos resignados, y punto.
-    -- Perez Reberte, La reina del sur
+    -- Perez Reverte, La reina del sur
