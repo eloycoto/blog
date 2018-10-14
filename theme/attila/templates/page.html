@@ -48,6 +48,13 @@
         </nav>
         <h1 class="post-title">{{ page.title }}</h1>
         {% if selected_cover %}
+            {% if page.cover %}
+              {% if page.cover|lower|truncate(4, True, '') == "http" %}
+                {% set selected_cover = page.cover %}
+              {% else %}
+                {% set selected_cover = SITEURL+"/"+page.cover %}
+              {% endif %}
+            {% endif %}
             <div class="post-cover cover" style="background-image: url('{{ selected_cover }}')">
         {% elif selected_color %}
             <div class="post-cover cover" style="background-color: {{ selected_color }}">

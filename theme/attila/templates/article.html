@@ -31,9 +31,7 @@
   {{ super() }}
 
   <link href="{{ SITEURL }}/{{ article.url }}" rel="canonical" />
-  {% for keyword in article.keywords %}
-    <meta name="keywords" content="{{keyword}}" >
-  {% endfor %}
+  <meta name="keywords" content="{{article.keywords}}" >
 
   {% if description %}
     <meta name="description" content="{{ description }}">
