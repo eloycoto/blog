@@ -4,6 +4,7 @@ Why Tesla should build the European factory in Vigo?
 :date: 2016-07-26 16:00
 :language: en-GB
 :head: Why Tesla should build the European factory in Vigo?
+:author: eloycoto
 :index_title: a few reasons to Tesla to set the new EU factory in Galicia.
 :metatitle: Reasons why Vigo has a powerful automotive cluster.
 :tags: tesla, vigo, galicia

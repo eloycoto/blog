@@ -6,6 +6,7 @@ Terraform recipes to test Cilium on Kubernetes
 :head: Terraform recipes to test Cilium on Kubernetes
 :index_title: Terraform recipes to test Cilium on Kubernetes
 :metatitle: Terraform recipes to test Cilium on Kubernetes
+:author: eloycoto
 :tags: ubuntu, cilium, terraform, kubernetes
 :metatags: bpf, ebpf, xdp, terraform, k8s, kubernetes, cni
 :description: A terraform recipe to build a kunernetes cluster on Google Cloud Platform using cilium networking

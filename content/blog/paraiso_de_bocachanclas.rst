@@ -4,6 +4,7 @@ España, o paraíso dos bocachanclas
 :date: 2017-07-31 16:00
 :language: gl
 :head: España, o paraíso dos bocachanclas
+:author: eloycoto
 :index_title: España, o paraíso dos bocachanclas
 :metatitle: España, o paraíso dos bocachanclas
 :tags: rally, galicia

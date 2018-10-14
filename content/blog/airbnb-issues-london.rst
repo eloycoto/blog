@@ -7,6 +7,7 @@ My first issue with Airbnb
 :index_title: Airbnb's issues
 :metatitle: In January 2015 I had a issue with my Airbnb host. This is the result
 :tags: airbnb, travels, personal
+:author: eloycoto
 :metatags: airbnb, personal
 :description: In January of 2015, I booked a room in Airbnb in London and I had problems with it.
 :keywords: airbnb, personal

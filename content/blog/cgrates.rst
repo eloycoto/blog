@@ -7,6 +7,7 @@ My thoughts about CGRates
 :index_title: My thoughts about CGRates
 :metatitle: Thoughts about Cgrates billing system
 :tags: kamailio, billing, cgrates
+:author: eloycoto
 :metatags: kamailio, kamevapi, cgrates, billing
 :description: Cgrates is a billing platform for kamailio, freeswitch.
 :keywords: kamailio, kamevapi, evapi, cgrates, billing

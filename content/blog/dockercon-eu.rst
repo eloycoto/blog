@@ -6,6 +6,7 @@ Dockercon Europe 14
 :head: My review of Dockercon Europe 14
 :index_title: Dockercon Europe 14 review.
 :metatitle: Dockercon Europe 14 review about all the talks&annoucements.
+:author: eloycoto
 :tags: docker, kamailio
 :metatags: docker, kamailio, dockercon, amsterdam
 :description: Dockercon was a good fun. I learnt a lot about it, also their new projects and new interfaces were amazing.

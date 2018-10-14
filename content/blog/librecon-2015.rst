@@ -3,6 +3,7 @@ Voip talk at Librecon 2015
 
 :date: 2015-10-29 16:00
 :language: en-GB
+:author: eloycoto
 :head: Librecon 2015 talk about Voip-Kamailio
 :index_title: Building Voip Provider using OpenSource
 :metatitle: Voip Provider - Kamailio, asterisk

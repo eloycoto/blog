@@ -6,6 +6,7 @@ My review of Hashiconf Europe 16
 :head: My review of Hashiconf Europe 16
 :index_title: Hashiconf Europe 16 review.
 :metatitle: Hashiconf Europe 16 review about all the talks&annoucements.
+:author: eloycoto
 :tags: docker, kamailio, hashicorp, terraform, nomad, consul
 :metatags: docker, kamailio, terraform, nomad, consul
 :description: Hashiconf 2016 was a good conference. This is the review of the talks and best practices

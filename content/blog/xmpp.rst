@@ -1,9 +1,10 @@
-Notificaciones de Github mediante XMPP. 
+Notificaciones de Github mediante XMPP.
 ===========================================
 
 :date: 2013-03-15 12:25
 :head: Notificaciones push desde github a nuestro IM
 :metatitle: Notificaciones Xmpp desde nuestro servicio de Git
+:author: eloycoto
 :tags: git, github, xmpp, triggers, push
 :metatags: git, github, xmpp, triggers, push
 :description: How to use github para enviar mensajes a nuestro servidor de jabber

@@ -4,6 +4,7 @@ Spring Hackaton London
 :head: Spring Hackaton Londres Abril 2013
 :index_title: Hackathon en el Google Campus
 :metatitle: Hackaton localizacion y twilio en el Google Campus
+:author: eloycoto
 :tags: openlayers,twilio, cloud-communications, programacion, emberjs, python
 :metatags: openlayers,twilio, cloud-communications, programacion, emberjs, python
 :description: Resumen de lo sucedido en la primera hackaton de primavera usando herramientas de geocalizacion

@@ -6,6 +6,7 @@ Hablando de Docker en betabeers Galicia
 :index_title: Charla sobre Docker en Betabeers Galicia
 :metatitle: XVI Jornada del Betabeers Galicia donde hablé de docker.
 :tags: Docker, betabeers, talks
+:author: eloycoto
 :metatags: kamailio, asterisk, docker, Betabeers, fig, Kubernetes
 :description: Presentación de docker en el XVI Betabeers Galicia donde nos introducimos en docker
 :keywords: docker, betabeers, kamailio

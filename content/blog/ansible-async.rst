@@ -7,6 +7,7 @@ Acelerate your Ansible playbooks with async tasks
 :index_title: Ansible async task
 :metatitle: How to accelerate your Ansible Playbooks
 :tags: ansible, async, debian, devops, deploy
+:author: eloycoto
 :metatags:  ansible, ansible playbooks, ansible async, ansible async with_items
 :description: With Async tasks in Ansible you can run actions in background while short task are running, so you can speed-up your deploy.
 :keywords: ansible, async, playbooks, devops

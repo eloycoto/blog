@@ -3,8 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Eloy Coto'
-SITENAME = u'A calustra'
+SITENAME = u'A Calustra'
 SITEURL = 'http://www.acalustra.com'
+# SITEURL = '/'
 DEFAULT_DATE_FORMAT = ('%A %d-%m-%Y')
 
 
@@ -12,7 +13,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Madrid'
 
-DEFAULT_LANG = u'es'
+DEFAULT_LANG = u'en'
 DISQUS_SITENAME = 'acalustra'
 
 # Feed generation is usually not desired when developing
@@ -25,11 +26,11 @@ LINKS = ()
 # Social widget
 SOCIAL = ()
 
-DEFAULT_PAGINATION = 0
+DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ["pelican-plugins/"]
 PLUGINS = ['sitemap','related_posts']
-THEME = 'theme/blog/'
+THEME = 'theme/attila/'
 SITEMAP = {
     'format': 'xml',
     'priorities': {
@@ -73,5 +74,24 @@ CONTRIBUTIONS = {
         ],
 }
 
+AUTHORS_BIO = {
+  "eloycoto": {
+    "name": "Eloy Coto",
+    "cover": "img/profile.jpg",
+    "image": "img/profile.jpg",
+    "website": "http://acalustra.com",
+    "github": "https://github.com/eloycoto",
+    "twitter": "https://twitter.com/eloycoto",
+    "linkedin": "https://www.linkedin.com/in/eloycoto",
+    "location": "Galicia",
+    "bio": "Senior software engineer with experience in Golang, C and Python and CI/CD"
+  }
+}
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+SOCIAL = (('twitter', 'https://twitter.com/eloycoto'),
+          ('github', 'https://github.com/eloycoto'),
+          ('envelope','mailto:eloycoto@gmail.com'))
+
+HEADER_COVER = 'img/oia.jpg'

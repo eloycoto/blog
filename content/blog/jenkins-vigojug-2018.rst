@@ -6,6 +6,7 @@ Jenkins Slides from my VigoJug meetup
 :head: Jenkins 101 in VigoJug meetup
 :index_title: Jenkins 101 in VigoJug meetup
 :metatitle: Jenkins 101 in VigoJug meetup
+:author: eloycoto
 :tags: jenkins, vigo, talks
 :metatags: jenkins, Vigo, talks, groovy, pipelines, declarative-pipelines
 :description: Jenkins slides related to pipelines, job-dsl, groovy libraries.

@@ -7,6 +7,7 @@ Perseguir un soño e que se convirte nunha trampa.
 :index_title: Perseguir un soño e que se convirte nunha trampa.
 :metatitle: Perseguir un soño e que se convirte nunha trampa.
 :tags: aindustriosa, mar, vigo
+:author: eloycoto
 :metatags: aindustriosa, mar, vigo
 :description:  Perseguir un soño e que se convirte nunha trampa.
 :keywords: vigo, medialab, tecnoloxía marítima

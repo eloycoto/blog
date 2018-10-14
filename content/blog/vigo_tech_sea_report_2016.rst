@@ -5,6 +5,7 @@ Estase a converter Vigo nunha potencia tecnolóxica do mar?
 :language: gl
 :head: Estase a converter Vigo nunha potencia tecnolóxica do mar?
 :index_title: Reporte tecnolóxico mariño 2016
+:author: eloycoto
 :metatitle: Empresas tecnolóxicas galegas orientadas ao sector marítimo.
 :tags: tecnoloxía, vigo, mar
 :metatags: tecnoloxía, vigo, mar, galicia

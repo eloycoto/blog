@@ -3,6 +3,7 @@ Kamailio statsd explained
 
 :date: 2015-03-16 16:00
 :language: en-GB
+:author: eloycoto
 :head: Kamailio statsd best practices
 :index_title: Kamailio statsd native integration.
 :metatitle: Kamailio Statsd module explained

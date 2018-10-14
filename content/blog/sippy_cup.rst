@@ -4,6 +4,7 @@ Haciendo test con sipp sin morir en el intento
 :date: 2013-08-30 10:10
 :head: Validar instalaciones de SIPP con sippy_cup
 :index_title: Sippy_cup howto
+:author: eloycoto
 :metatitle: Validacion sencilla de sipp con sippy_cup
 :tags: sip, sipp, ruby, sippy_cup, test, asterisk, asteriskTestSuite
 :metatags: sip, sipp, sippy_cup, asterisk, voip

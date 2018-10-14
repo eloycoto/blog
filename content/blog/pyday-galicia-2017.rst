@@ -4,6 +4,7 @@ PyDay Galicia 2017: How to write better logs.
 :date: 2017-06-29 12:00
 :language: en-GB
 :head: Lighting talk in PyDay Galicia 2017.
+:author: eloycoto
 :index_title: PyDay Galicia 2017: How to write better logs.
 :metatitle: Lighting talk in PyDay Galicia 2017.
 :tags: python, vigo, pyday, talks

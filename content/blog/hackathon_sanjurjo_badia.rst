@@ -4,6 +4,7 @@ Resume persoal da hackathon Sanjurjo Badía
 :date: 2016-03-25 16:00
 :language: gl
 :head: Resume da hackathon Sanjurjo Badía
+:author: eloycoto
 :index_title: Hackathon Sanjurjo Badía
 :metatitle: Resume persoal da hackathon Sanjurjo Badía
 :tags: hackathon, vigo, mar

@@ -6,6 +6,7 @@ Asterisk 11 hangups handlers
 :head: How to improve your hangups handlers in asterisk.
 :metatitle: Asterisk 11, new feature hangup handlers
 :tags: asterisk, dialplan, ari, hangup
+:author: eloycoto
 :index_title: Asterisk hangup into Gosub.
 :metatags: asterisk, dialplan, gosub, hangup
 :description: Asterisk 11 introduces hangups handlers, useful application to improve asterisk subroutines (Gosub)

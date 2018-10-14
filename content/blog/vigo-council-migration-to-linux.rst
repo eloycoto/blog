@@ -4,6 +4,7 @@ How Vigo Council migrate to Linux
 :date: 2017-06-19 12:00
 :language: en-GB
 :head: How Vigo Council migrated to Linux
+:author: eloycoto
 :index_title: How Vigo Council migrate to Linux
 :metatitle: How Vigo Council migrate to Linux
 :tags: ubuntu, council, vigo

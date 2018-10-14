@@ -4,6 +4,7 @@ Ansible: how to maintain multiple ssh-keys in different servers
 :date: 2014-11-19 21:00
 :language: en-GB
 :head: How to deploy multiple ssh-keys to different servers
+:author: eloycoto
 :metatitle: Ansible deploy multiple ssh-keys to different servers
 :tags: ansible, ssh, deploy, users
 :index_title: How to deploy ssh keys across servers using ansible

@@ -7,6 +7,7 @@ Fosdem 2017 review
 :index_title: Fosdem 2017 Review
 :metatitle: Fosdem 2017 Review
 :tags: fosdem, kamailio, conferences
+:author: eloycoto
 :metatags: fosdem, kamailio, cgrates, go, postgresql
 :description: Fosdem is the biggest Open Source conference. This 2017 I was present again mainly by the Real Time Comms room that have a lot of Sip/Webrtc content
 :keywords: fosdem, voip, asterisk, postgresql, gprc, cgrates

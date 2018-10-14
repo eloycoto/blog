@@ -5,6 +5,7 @@ Using Jenkins Pipelines to deploy terraform
 :language: en-GB
 :head: Jenkins Pipeline to apply terraform plans
 :index_title: Apply terraform plans using Jenkins Pipeline
+:author: eloycoto
 :metatitle: Apply terraform plans with validation using Jenkins Pipeline
 :tags: terraform, jenkins, packer
 :metatags: jenkins, terraform, pipelines, devops, packer, hashicorp

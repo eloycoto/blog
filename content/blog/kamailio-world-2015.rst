@@ -3,6 +3,7 @@ Kamialio World 2015
 
 :date: 2015-06-17
 :language: en-GB
+:author: eloycoto
 :head: My review of Kamailio World 2015
 :index_title: Kamailio World 2015 review
 :metatitle: Kamailio World 15 review about all the talks&annoucements.

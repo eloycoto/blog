@@ -6,6 +6,7 @@ O fracaso do MediaLab "A Industriosa"
 :head: O fracaso do medialab A Industriosa - Vigo
 :index_title: O fracaso do medialab A Industriosa - Vigo
 :metatitle: O fracaso do medialab A Industriosa - Vigo
+:author: eloycoto
 :tags: tecnoloxía, vigo, mar
 :metatags: tecnoloxía, vigo, mar, galicia
 :description: Crónica da morte do proxecto de Medialab "A Industriosa" Vigo

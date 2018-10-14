@@ -6,6 +6,7 @@ trick and tips en ansible
 :index_title: Las mejores funciones de ansible
 :metatitle: Trucos en la configuración de Ansible
 :tags: ansible, devops, howto, asterisk, playbook
+:author: eloycoto
 :metatags: ansible, deploy, tricks, condicionales
 :description: Ansible es una herramienta impresionante,aqui explicamos 6 funciones muy utiles.
 :keywords: ansible, playbooks, conditionals, tricks, trucos, python, asterisk

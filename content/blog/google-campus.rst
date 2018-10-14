@@ -5,6 +5,7 @@ La aventura de marcharche al Google Campus
 :head: Internacionalizando una empresa gallega.
 :index_title: Google campus Londres
 :metatitle: Descripcion del inicio de la aventura de webphone en Londres
+:author: eloycoto
 :tags: londres, webphone, techhub, googleCampus
 :metatags: londres, webphone, techhub, googleCampus
 :description: Descripcion del inicio de webphone en londres

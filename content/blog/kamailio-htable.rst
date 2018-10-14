@@ -5,6 +5,7 @@ Kamailio from tables to htables
 :language: en-GB
 :head: From SQL tables to Kamailio hash tables.
 :index_title: kamailio htables and postgres
+:author: eloycoto
 :metatitle: Snippet to work with PostgreSQL and Kamailio htables
 :tags: kamailio, postgresql, htables
 :metatags: Kamailio, hashtables, hstore

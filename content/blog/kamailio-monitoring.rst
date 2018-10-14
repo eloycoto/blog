@@ -6,6 +6,7 @@ How can I monitor my Voip Application?
 :head: Kamailio monitoring with statsd, SIPCapture or Packetbeat
 :index_title: Monitoring solutions for kamailio
 :metatitle: How kamailio can be monitored with SIPCapture and other software
+:author: eloycoto
 :tags: kamailio, sip, SIPCapture, Packetbeat, statsd
 :metatags: kamailio, graphite, influxdb, siphormer, beats
 :description: Kamailio can be monitored with different tools, in this post we're going to explain why tool platform needs.

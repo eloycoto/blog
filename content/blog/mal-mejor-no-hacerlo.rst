@@ -3,10 +3,11 @@ Para hacerlo mal, mejor no hacerlo
 
 :date: 2012-11-28 12:25
 :head: Para hacerlo mal mejor no hacerlo
+:author: eloycoto
 :metatitle: Para hacerlo mal, mejor no hacerlo
 :tags: productividad, software libre, jira, bitbucket, googleapps
 :metatags: productividad, software libre, jira, bitbucket, googleapps
-:description: blog sobre productividad de producto 
+:description: blog sobre productividad de producto
 :keywords: productividad, software libre, jira, bitbucket, googleapps
 
 
