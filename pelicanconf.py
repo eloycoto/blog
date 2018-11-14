@@ -4,10 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Eloy Coto'
 SITENAME = u'A Calustra'
-SITEURL = 'http://www.acalustra.com'
-# SITEURL = '/'
+SITEURL = 'https://acalustra.com/'
 DEFAULT_DATE_FORMAT = ('%A %d-%m-%Y')
-
+RELATIVE_URLS = False
 
 PATH = 'content'
 
@@ -87,8 +86,6 @@ AUTHORS_BIO = {
     "bio": "Senior software engineer with experience in Golang, C and Python and CI/CD"
   }
 }
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
 
 SOCIAL = (('twitter', 'https://twitter.com/eloycoto'),
           ('github', 'https://github.com/eloycoto'),
