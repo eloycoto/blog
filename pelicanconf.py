@@ -8,6 +8,7 @@ SITEURL = 'https://acalustra.com/'
 DEFAULT_DATE_FORMAT = ('%A %d-%m-%Y')
 RELATIVE_URLS = False
 
+GOOGLE_ANALYTICS = "UA-36310774-1"
 PATH = 'content'
 
 TIMEZONE = 'Europe/Madrid'
@@ -92,3 +93,4 @@ SOCIAL = (('twitter', 'https://twitter.com/eloycoto'),
           ('envelope','mailto:eloycoto@gmail.com'))
 
 HEADER_COVER = 'img/oia.jpg'
+
