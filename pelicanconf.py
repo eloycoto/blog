@@ -80,9 +80,9 @@ AUTHORS_BIO = {
     "cover": "img/profile.jpg",
     "image": "img/profile.jpg",
     "website": "http://acalustra.com",
-    "github": "https://github.com/eloycoto",
-    "twitter": "https://twitter.com/eloycoto",
-    "linkedin": "https://www.linkedin.com/in/eloycoto",
+    "github": "eloycoto",
+    "twitter": "eloycoto",
+    "linkedin": "eloycoto",
     "location": "Galicia",
     "bio": "Senior software engineer with experience in Golang, C and Python and CI/CD"
   }
