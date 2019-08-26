@@ -76,7 +76,7 @@ edicións, nunca quixeron colaborar, pero sempre aparecían polo café para dici
 ben que traballaban. Dende aquela, sempre valoro os feitos, nunca o futuro.
 
 ******************************
-Permiso para  poñer el logo
+Permiso para  poñer o logo
 ******************************
 
 David Bonilla, de Manfred Tech, comentou que o logo si que estaba pedido, e que
