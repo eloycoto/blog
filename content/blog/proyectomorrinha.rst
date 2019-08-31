@@ -3,19 +3,19 @@ Proyecto Morriña e o dramita de colaborar con empresas
 
 :date: 2019-08-26 12:00
 :language: gl
-:head: Proyecto Morriña e o dramita de colaborar con empresas
-:index_title: Proyecto Morriña e o dramita de colaborar con empresas
-:metatitle: Proyecto morriña y los problemas con el logo de Vigotech.
+:head: Operación Morriña e o dramita de colaborar con empresas
+:index_title: Operación Morriña e o dramita de colaborar con empresas
+:metatitle: Operación morriña y los problemas con el logo de Vigotech.
 :tags: morriña, vigotech, manfred, corunet
 :author: eloycoto
-:metatags: proyecto morriña, vigotech.
-:description:  Proyecto morriña y los problemas con el logo de Vigotech.
+:metatags: operación morriña, vigotech.
+:description:  operación morriña y los problemas con el logo de Vigotech.
 :keywords: Coruña, morriña, trabajo, vuelta
 
 
 Onte aquí, un minifundista galego, xa a `liou parda en twitter
 <https://twitter.com/eloycoto/status/1165559874677329920>`_. Onte lanzouse a web
-de `proxecto Morriña <https://operacionmorriña.com/es/>`__, unha iniciativa
+de `Operación Morriña <https://operacionmorriña.com/es/>`__, unha iniciativa
 privada e cun claro fin económico, que quere atraer talento a Galicia. A idea,
 en si, esta xenial, apadriñada pola empresa Coruñesa Corunet, e pola startup
 madrileña Mandfred Tech.
@@ -29,7 +29,7 @@ Miña tristeza viu, cando na landing da páxina aparecía o seguinte texto, co l
 de VigoTech.
 
 .. image:: img/manfred_morrinha.png
-   :alt: Proyecto morriña
+   :alt: Operación morriña
    :align: center
 
 
