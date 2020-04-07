@@ -48,10 +48,12 @@ RELATED_POSTS_MAX = 5
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/gpg_public_key': {'path': 'gpg_public_key'},
 }
 STATIC_PATHS = [
     'extra/robots.txt',
     'extra/CNAME',
+    'extra/gpg_public_key',
     'img',
 ]
 
