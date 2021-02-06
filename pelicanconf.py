@@ -17,7 +17,7 @@ DEFAULT_LANG = u'en'
 DISQUS_SITENAME = 'acalustra'
 
 COLOR_SCHEME_CSS='monokai.css'
-
+CSS_OVERRIDE = ['theme/css/eloy.css']
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'rss.xml'
 CATEGORY_FEED_ATOM = None
