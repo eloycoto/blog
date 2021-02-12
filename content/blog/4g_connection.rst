@@ -14,7 +14,7 @@ A smooth move to 4G using Linux
 :cover: /img/antenna.jpg
 
 One of the problems that I faced in the past is how I switched from DSL to 4G
-connection. Mi primary internet connection is DSL, and things are bad when you
+connection. My primary internet connection is DSL, and things are bad when you
 try to upload something big or want to do a videocall without issues.
 
 I used 4G over the phone, but the experience it's terrible. Also, it's not a
