@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ["pelican-plugins/"]
 PLUGINS = ['sitemap','related_posts']
-THEME = 'theme/attila/'
+THEME = 'theme/simple/'
 SITEMAP = {
     'format': 'xml',
     'priorities': {

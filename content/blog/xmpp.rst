@@ -25,7 +25,7 @@ XMPP es un protocolo que se puede usar para todo, tanto como un sistema
 de mesajeria corporativo, como servicio de presencia o `para desplegar
 servicios soa. <http://bosqueviejo.net/2012/11/17/soa-con-xmpp/>`__
 
-.. figure:: static/xmpp.png
+.. figure:: img/xmpp.png
    :alt: xmpp
 
 
@@ -39,7 +39,7 @@ resto de usuarios de una nueva versión de código en el repositorio.En mi
 actual empresa además parcheamos la entrada e insertamos los datos en
 nuestra plataforma de tareas.
 
-.. figure:: static/github.png
+.. figure:: img/github.png
    :alt: github
 
 
@@ -52,7 +52,6 @@ Leer los datos con python no es una tarea muy complicada, y aqui os dejo
 un pequeño trozo de código que espera la entrada de un commit de github
 
 .. raw:: python
-
    import logging
 
    from sleekxmpp import ClientXMPP
