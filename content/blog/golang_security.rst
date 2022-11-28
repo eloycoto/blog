@@ -78,9 +78,8 @@ You can use it manually like this:
 .. code-block:: bash
 
     $ docker run --rm -v "$(pwd):/src" \
-        -v "/tmp/semgrep-go:/rules/" \
         returntocorp/semgrep \
-        semgrep -f /rules/ /src/
+        semgrep --config "p/golang"
 
 Vuln:
 -----
